@@ -96,8 +96,3 @@ We welcome contributions to this project! Feel free to fork the repository and s
   * Ensure your code is well-documented.
 
 ---
-
-## Author
-
-Aniket Shinde
-Email: aniketsshinde16@gmail.com
