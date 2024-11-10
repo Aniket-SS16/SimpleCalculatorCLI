@@ -85,3 +85,8 @@ Once the program is set up, run the Python script to start the calculator. Here 
   Enter the second number: 98
   The GCD of 56 and 98 is 14
   ```
+
+---
+
+## Contribution
+
