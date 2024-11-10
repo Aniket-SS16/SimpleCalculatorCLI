@@ -79,9 +79,9 @@ Once the program is set up, run the Python script to start the calculator. Here 
 
 3. Example for Greatest Common Divisor (GCD):
 
-   ```bash
-   Enter the first number: 56
-   Enter the operation to perform: GCD
-   Enter the second number: 98
-   The GCD of 56 and 98 is 14
-   ```
+  ```bash
+  Enter the first number: 56
+  Enter the operation to perform: GCD
+  Enter the second number: 98
+  The GCD of 56 and 98 is 14
+  ```
