@@ -58,7 +58,7 @@ Once the program is set up, run the Python script to start the calculator. Here 
   - Greatest Common Divisor: `GCD`
   - Least Common Multiple: `LCM`
 
-### Example
+### Examples
 
 1. Example for Addition (+):
 
@@ -100,5 +100,4 @@ We welcome contributions to this project! Feel free to fork the repository and s
 ## Author
 
 Aniket Shinde
-GitHub: @Aniket-SS16
 Email: aniketsshinde16@gmail.com
