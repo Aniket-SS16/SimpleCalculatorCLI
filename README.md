@@ -43,3 +43,9 @@ Ensure that Python 3.x is installed on your system. If you don't have it yet, yo
 
    ```bash
    git clone https://github.com/Aniket-SS16/SimpleCalculatorCLI.git
+
+2. Navigate to the Project Directory
+  After cloning the repository, navigate into the project directory using the cd command:
+
+  ```bash
+  git clone https://github.com/Aniket-SS16/SimpleCalculatorCLI.git
