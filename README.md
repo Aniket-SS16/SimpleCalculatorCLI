@@ -31,21 +31,39 @@ A simple command-line calculator built using Python that supports a wide range o
 
 ---
 
-## Installation
+## Usage
 
-### Prerequisites
+Once the program is set up, run the Python script to start the calculator. Here are the available operations:
 
-Ensure that Python 3.x is installed on your system. If you don't have it yet, you can download it from the official [Python website](https://www.python.org/downloads/).
+- **Basic Arithmetic Operations**:
+  - Addition: `+`
+  - Subtraction: `-`
+  - Multiplication: `*`
+  - Division: `/`
+  - Floor Division: `//`
+  - Percentage: `%`
+  - Remainder: `r`
 
-### Steps to Clone and Set Up the Repository
+- **Advanced Operations**:
+  - Square: `square`
+  - Square Root: `sqrt`
+  - Cube: `cube`
+  - Cube Root: `cbrt`
+  - Factorial: `!`
+  - Exponentiation: `power`
 
-1. Clone the repository to your local machine:
+- **Mathematical Functions**:
+  - Prime Check: `prime`
+  - Reciprocal: `reciprocal`
+  - Greatest Common Divisor: `GCD`
+  - Least Common Multiple: `LCM`
 
-   ```bash
-   git clone https://github.com/Aniket-SS16/SimpleCalculatorCLI.git
+### Example
 
-2. Navigate to the Project Directory
-  After cloning the repository, navigate into the project directory using the cd command:
+Here is an example of how to use the calculator:
 
-  ```bash
-  git clone https://github.com/Aniket-SS16/SimpleCalculatorCLI.git
+```bash
+Enter the first number: 5
+Enter the operation to perform: +
+Enter the second number: 10
+5 + 10 = 15.0
