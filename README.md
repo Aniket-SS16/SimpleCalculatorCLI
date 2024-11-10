@@ -90,3 +90,15 @@ Once the program is set up, run the Python script to start the calculator. Here 
 
 ## Contribution
 
+We welcome contributions to this project! Feel free to fork the repository and submit pull requests for improvements, bug fixes, or new features. When contributing, please follow the following guidelines:
+  * Make sure to create a new branch for your changes.
+  * Write meaningful commit messages.
+  * Ensure your code is well-documented.
+
+---
+
+## Author
+
+Aniket Shinde
+GitHub: @Aniket-SS16
+Email: aniketsshinde16@gmail.com
